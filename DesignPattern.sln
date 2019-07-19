@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHangfire", "TestHangfir
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "flyweightPattern", "flyweightPattern\flyweightPattern.csproj", "{4E976CBC-9672-4D55-B567-661B34E1C538}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "observerPattern", "observerPattern\observerPattern.csproj", "{54C3E787-A9F6-42B8-B907-D7FC81FF5A07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "observerPattern", "observerPattern\observerPattern.csproj", "{54C3E787-A9F6-42B8-B907-D7FC81FF5A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{1581490A-6E08-4DE9-A5F4-3163DBD75187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strategyPattern", "strategyPattern\strategyPattern.csproj", "{5ED6A02E-DD7A-47DA-89B5-B211356C9B2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{54C3E787-A9F6-42B8-B907-D7FC81FF5A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54C3E787-A9F6-42B8-B907-D7FC81FF5A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54C3E787-A9F6-42B8-B907-D7FC81FF5A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1581490A-6E08-4DE9-A5F4-3163DBD75187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1581490A-6E08-4DE9-A5F4-3163DBD75187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1581490A-6E08-4DE9-A5F4-3163DBD75187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1581490A-6E08-4DE9-A5F4-3163DBD75187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED6A02E-DD7A-47DA-89B5-B211356C9B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED6A02E-DD7A-47DA-89B5-B211356C9B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED6A02E-DD7A-47DA-89B5-B211356C9B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED6A02E-DD7A-47DA-89B5-B211356C9B2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
